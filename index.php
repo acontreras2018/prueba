@@ -1,3 +1,3 @@
 <?php
-echo "hola mundo maricon ";
+echo "hola mundo putazos ";
 ?>
